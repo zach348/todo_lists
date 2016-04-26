@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'pry'
 
 describe "Creating todo lists" do
   def create_todo_list(options={})
