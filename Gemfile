@@ -12,6 +12,7 @@ gem 'turbolinks'
 gem 'minitest'
 gem 'jbuilder', '~> 2.0'
 gem 'rspec-rails', '~>2.0'
+gem 'rspec-activemodel-mocks'
 
 group :doc do
   gem 'sdoc', require: false
